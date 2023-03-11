@@ -64,9 +64,9 @@ global.ppulsa2 = '0831 3332 9293' // kalau ada kartu lain isi aja
 global.psaweria = '-'
 
 /*============== NOMOR ==============*/
-global.nomorbot = '6282124690625'
-global.nomorown = '6283133329293'
-global.nomorown1 = '6283133329293' //pake No Pacar lo Juga Boleh
+global.nomorbot = '6282135373432'
+global.nomorown = '62895359869547'
+global.nomorown1 = '62895359869547' //pake No Pacar lo Juga Boleh
 global.namebot = 'ZYKOBOTZ MD'
 global.nameown = 'ZYKO MD'
 global.nameown1 = 'LISA AMELIA' //Pake Nama Pacar Lo Juga Boleh
@@ -83,7 +83,7 @@ global.linkgithub = 'Link Githu Belum Diisi' // tarok link github lu
 /*============== STAFF ==============*/
 global.owner = [
   ['6283133329293', 'ZYKO MD', true],
-  ['-', 'ISI KALAU ADA', true],
+  ['6282135373432', 'ANDHIKA', true],
   ['-', 'ISI KALAU ADA', true],
   ['-', 'ISI KALAU ADA', true],
   ['-', 'ISI KALAU ADA', true]
